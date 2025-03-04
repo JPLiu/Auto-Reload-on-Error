@@ -5,3 +5,5 @@
 目前主要用在 Android 端，用途是解决由于网络不稳定导致的网页加载失败。
 
 本扩展代码由 腾讯元宝 生成。
+
+ICON 来自 [iconfinder](https://www.iconfinder.com/icons/254190/refresh_reload_rotate_synchronize_icon)。
