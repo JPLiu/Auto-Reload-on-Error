@@ -1,6 +1,6 @@
 // 配置参数
 const MAX_RETRIES = 3;     // 最大重试次数
-const RETRY_DELAY = 2000;  // 重试间隔（毫秒）
+const RETRY_DELAY = 1000;  // 重试间隔（毫秒）
 
 // 存储重试记录的Map
 const retryCounts = new Map();

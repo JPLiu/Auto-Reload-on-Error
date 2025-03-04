@@ -1,7 +1,7 @@
 {
   "manifest_version": 2,
   "name": "Auto Reload on Error",
-  "version": "1.1",
+  "version": "1.2",
   "description": "自动重新加载加载失败的网页",
   "icons": {
     "48": "icons/icon-48.png"
