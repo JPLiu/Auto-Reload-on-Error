@@ -3,11 +3,17 @@
   "name": "Auto Reload on Error",
   "version": "1.4",
   "description": "自动重新加载加载失败的网页",
+  "icons": {
+    "128": "icons/icon-128.png"
+  },
   "permissions": ["webNavigation", "tabs"],
   "background": {
     "scripts": ["background.js"]
   },
-  "icons": {
-    "128": "icons/icon-128.png"
+  "browser_specific_settings": {
+    "gecko": {
+      "id": "{e75507df-59e7-4de3-a000-0ee2e8a79302}",
+      "strict_min_version": "128.0"
+    }
   }
 }
