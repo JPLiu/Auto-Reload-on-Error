@@ -1,4 +1,4 @@
-# Auto-Reload-on-Error-MV2
+# Auto-Reload-on-Error
 
 个人自用的 Firefox 扩展（已上架 [Addons](https://addons.mozilla.org/zh-CN/firefox/addon/auto-reload-on-error/)），功能是当网页加载失败时，自动尝试重新加载网页（最多尝试 3 次）。
 
