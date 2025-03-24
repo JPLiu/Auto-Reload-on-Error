@@ -1,0 +1,13 @@
+{
+  "manifest_version": 3,
+  "name": "Auto Reload on Error",
+  "version": "1.4",
+  "description": "自动重新加载加载失败的网页",
+  "permissions": ["webNavigation", "tabs"],
+  "background": {
+    "scripts": ["background.js"]
+  },
+  "icons": {
+    "128": "icons/icon-128.png"
+  }
+}
